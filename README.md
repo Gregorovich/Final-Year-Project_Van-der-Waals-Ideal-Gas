@@ -1,4 +1,4 @@
-# Final-Year-Project_Van-der-Waals-Ideal-Gas
+# Final Year Project - Van der Waals Ideal Gas Calculations and Graphs
 
 There are 2 MATLAB "programs" here, vdwsolve.m and lv_coexistence.m . lv_coexistence.m calls other scripts to make the code more readable.
 
